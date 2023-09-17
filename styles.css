@@ -1,8 +1,31 @@
 /*  your css code here. If applicable */
 .card{
 	width:400px;
-	height:800px;
+	height:600px;
 	background-color:whitesmoke;
 	border-radius:10px;
 	box-shadow:4px 4px 10px gray;
+}
+img{
+	padding:50px;
+	padding-bottom:0px;
+	height:200px;
+}
+h1{
+	text-align:center;
+}
+.buy{
+	text-align:center;
+}
+.des{
+	text-align:center;
+}
+.btn{
+	height:50px;
+	width:100px;
+	margin:auto;
+	background-color:coral;
+	color:white;
+	border-radius:10px;
+	border-style:none;
 }
